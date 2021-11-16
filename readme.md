@@ -4,4 +4,4 @@ descrição inicial do meu read me.
 
 ## subititulo
 
-blabla
+serve  para descrever as funcionalidades do software
